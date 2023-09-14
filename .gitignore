@@ -2,3 +2,6 @@
 .idea
 .idea/*
 *.pem
+items.json
+xml_files
+xml_files/*
